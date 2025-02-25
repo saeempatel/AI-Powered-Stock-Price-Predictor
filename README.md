@@ -1,8 +1,9 @@
-#📌 Project Description: AI-Powered Stock Price Predictor
-🔹 Overview:
+# 📌 Project Description: AI-Powered Stock Price Predictor
+
+## 🔹 Overview:
 The AI-Powered Stock Price Predictor is a machine learning-driven web application designed to forecast stock prices using Long Short-Term Memory (LSTM) neural networks. This project integrates real-time financial data, technical indicators, and AI-driven market insights, allowing users to analyze stock trends, customize prediction periods, and make data-informed investment decisions.
 
-🔹 Features & Functionality:
+## 🔹 Features & Functionality:
 ✅ Real-Time Stock Data Fetching
 
 Uses Yahoo Finance API to fetch live stock prices, market cap, volume, dividend yield, and P/E ratios.
@@ -35,7 +36,7 @@ Designed for cloud deployment on AWS, Streamlit Cloud, or Heroku.
 🔹 Data Visualization: Plotly, Matplotlib
 🔹 Deployment & Scaling: Docker, AWS, Streamlit Cloud
 
-🔹 Project Impact:
+## 🔹 Project Impact:
 🚀 Improved stock price forecast accuracy by 20% through technical indicator integration.
 📊 Reduced model training time by 40% using GPU acceleration and feature selection.
 🔍 Enabled AI-driven market insights, helping users make data-backed investment decisions.
