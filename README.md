@@ -1,4 +1,4 @@
-📌 Project Description: AI-Powered Stock Price Predictor
+#📌 Project Description: AI-Powered Stock Price Predictor
 🔹 Overview:
 The AI-Powered Stock Price Predictor is a machine learning-driven web application designed to forecast stock prices using Long Short-Term Memory (LSTM) neural networks. This project integrates real-time financial data, technical indicators, and AI-driven market insights, allowing users to analyze stock trends, customize prediction periods, and make data-informed investment decisions.
 
