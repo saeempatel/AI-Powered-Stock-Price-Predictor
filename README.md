@@ -41,3 +41,5 @@ Designed for cloud deployment on AWS, Streamlit Cloud, or Heroku.
 📊 Reduced model training time by 40% using GPU acceleration and feature selection.
 🔍 Enabled AI-driven market insights, helping users make data-backed investment decisions.
 🌎 Designed for scalability, allowing seamless deployment on cloud platforms.
+
+https://github.com/user-attachments/assets/5d131b99-6037-4f8d-87ba-af6c3cc2df93
